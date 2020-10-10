@@ -2,8 +2,6 @@ import random
 import discord
 from discord.ext import commands
 import asyncio
-from webserver import keep_alive
-import os
 from texto import *
 
 bot = commands.Bot(command_prefix=';', description="Bot corrugado de prueba")
@@ -103,6 +101,4 @@ async def on_ready():
     await bot.change_presence(activity=discord.Game(name=";comandos"))
     print("Patabot funca")
 
-keep_alive()
-TOKEN = os.environ.get("DISCORD_BOT")
-bot.run(TOKEN)
+bot.run("NzA0MDA2NDE3ODE1ODMwNjA5.XqW3EQ.HaQPLpynzkprHd575k7aVVbG2RQ")

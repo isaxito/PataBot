@@ -30,7 +30,8 @@ frasesFran = ["La re sube " + skate + "\n -Fran",
               "La baja una locura" + caramia + "\n -Fran",
               "Es por ahí\n -Fran",
               "Que paaaaajaaaaa " + caramia + "\n -Fran",
-              "Mis perros son una mierda" + caramia + "\n -Fran"]
+              "Mis perros son una mierda" + caramia + "\n -Fran",
+			  "No me la contess asiiii\n -Fran"]
 
 frasesIceCube = ["Just wakin’ up in the morning gotta thank god.\n – Ice Cube",
                  "You better check yourself before you wreck yourself.\n – Ice Cube",

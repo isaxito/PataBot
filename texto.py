@@ -10,10 +10,9 @@ caramia = "<:cara_mia_xEDDD:384925324913147904>"
 comandin = "Hola mujeres.\n;mclovin (frases icónicas de McLOVIN)\n;icecube (frases memorables de Ice Cube)\n;csgo (molestar a la gente para jugar csgo)\n;worms (alegrar a la gente para jugar worms)\n;dota2\n;askFran (Fran va a resolver tus dudas con sus frases celebres)\n;askMasi (no se por que harías tal cosa...)\n;askCorru (...)\n;coronavirus (foto del genocida hijo de puta)\n;si <persona>\n;elegir <opcion1> <opcion2>\n;biblia (versículo de la biblia)\n;redpill\n;windows10 (foto del maligno)"
 
 # ?????????????
-linkRedpill = ["https://www.gnu.org/philosophy/free-sw.html",
-              "https://www.gnu.org/philosophy/free-software-even-more-important.html",
-              "https://www.gnu.org/proprietary/proprietary.html",
-              "WINDOWS 10 VA A MATAR A TU FAMILIA"]
+linkRedpill = ["WINDOWS 10 VA A MATAR A TU FAMILIA",
+				"https://www.youtube.com/watch?v=1cqlgO8OePE",
+				"comando en proceso por falta de imaginacion"]
 
 frasesMasi = ["Me gusta el dinero" + masi + "\n -Masi", "chau me voy" + masiEmbolado + " *se desconecta*\n -Masi",
                  "jueguen una ya voy " + masi + "\n -Masi", "jaja pete" + mccaco +"\n -Masi","a casa platita"+masi+"\n -Masi",

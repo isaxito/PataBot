@@ -71,7 +71,7 @@ async def si(ctx, persona):
     await ctx.send(fraseDescanso(persona))
 @bot.command()
 async def elegir(ctx, op1, op2):
-    if((len(op1)<16 and (len(op2)<16))):
+    if((len(op1)<20 and (len(op2)<20))):
       c = random.randint(1,2)
       if c == 1:
           await ctx.send(frasesElegir(op1, op2))

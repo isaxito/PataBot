@@ -92,6 +92,9 @@ async def redpill(ctx):
 async def windows10(channel):
     await channel.send(file=discord.File('windows10.png'))
 @bot.command()
+async def jaja(channel):
+    await channel.send(file=discord.File('jaja.jpeg'))
+@bot.command()
 async def askMoya(ctx):
     await ctx.send("quien")
 

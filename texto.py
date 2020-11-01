@@ -7,7 +7,7 @@ masiEmbolado = "<:hernia:487884401242406922>"
 mccaco = "<:mccaco:693624548893130772>"
 caramia = "<:cara_mia_xEDDD:384925324913147904>"
 
-comandin = "Hola mujeres.\n;mclovin (frases icónicas de McLOVIN)\n;icecube (frases memorables de Ice Cube)\n;csgo (molestar a la gente para jugar csgo)\n;worms (alegrar a la gente para jugar worms)\n;dota2\n;askFran (Fran va a resolver tus dudas con sus frases celebres)\n;askMasi (no se por que harías tal cosa...)\n;askCorru (...)\n;coronavirus (foto del genocida hijo de puta)\n;si <persona>\n;elegir <opcion1> <opcion2>\n;biblia (versículo de la biblia)\n;redpill\n;windows10 (foto del maligno)"
+comandin = "Hola mujeres.\n;mclovin (frases icónicas de McLOVIN)\n;icecube (frases memorables de Ice Cube)\n;csgo (molestar a la gente para jugar csgo)\n;worms (alegrar a la gente para jugar worms)\n;dota2\n;askFran (Fran va a resolver tus dudas con sus frases celebres)\n;askMasi (no se por que harías tal cosa...)\n;askCorru (...)\n;coronavirus (foto del genocida hijo de puta)\n;si <persona>\n;elegir <opcion1> <opcion2>\n;biblia (versículo de la biblia)\n;redpill\n;windows10 (foto del maligno)\n;jaja para cagarte de risa"
 
 # ?????????????
 linkRedpill = ["WINDOWS 10 VA A MATAR A TU FAMILIA",
